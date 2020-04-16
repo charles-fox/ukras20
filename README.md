@@ -117,7 +117,7 @@ Joshua Emerson et al., Optimising Soft Fin Ray Robotic Fingers using Finite Elem
 
 Dingdian Zhang et al., Mapping the impact of faults in a multi-robot team [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_62.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster62.pdf)
 
-William Smith et al., Image Pre-processing, Triplet Learning and Route Navigation [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_63.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster63.pdf)
+William Smith et al., Image Pre-processing vs. Transfer Learning for Visual Route Navigation [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_63.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster63.pdf)
 
 Illimar Issak et al., The Goods and Bads in Dyadic Co-Manipulation: Identifying Conflict-Driven Interaction Behaviours in Human-Human Collaboration [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_64.pdf)
 
