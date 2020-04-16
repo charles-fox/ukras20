@@ -64,65 +64,65 @@ Mohammed Jabbar et al., Robotic ignition systems for oil fields [Paper](https://
 
 Edmund Hunt et al., Plastic 'personalities' for effective field swarms [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_31.pdf)
 
-Daniel De Becker et al., Towards the development of a deposition technology for an automated rail repair system [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_01.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster01.pdf)
+Daniel De Becker et al., Towards the development of a deposition technology for an automated rail repair system [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_32.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster32.pdf)
 
-Olivia Bridgewater-Smith et al., An Automatic Design Tool for Soft Robotics [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_02.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster02.pdf)
-
-
+Olivia Bridgewater-Smith et al., An Automatic Design Tool for Soft Robotics [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_33.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster33.pdf)
 
 
-Matias Mattamala et al., Adaptive Manipulator Control using Active Inference with Precision Learning [short paper] [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_03.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster03.pdf)
 
 
-Melanie Zimmer et al., Towards Human-Chatbot Interaction: A Virtual Assistant for the Ramp-up Process [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_04.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster04.pdf)
-
-Mateusz Malinowski et al., Power-aware Fusion of Visual and Wheel Odometry for Mobile Platforms [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_05.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster05.pdf)
-
-Paolo Grasso et al., Debiasing of position estimations of UWB-based TDoA indoor positioning system [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_08.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster08.pdf)
-
-George Onoufriou et al., The Augmented Agronomist Pipeline and Time Series Forecasting [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_12.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster12.pdf)
-
-Genki Miyauchi et al., A Study Assessing the Impact of Task Duration on Performance Metrics for Multi-Robot Teams [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_13.pdf)
-
-Anh Nguyen et al., BeetleBot: A Multi-Purpose AI-Driven Mobile Robot for Realistic Environments [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_15.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster15.pdf)
-
-Justin Le Louedec et al., Determining shape of strawberry crops with spherical harmonics [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_16.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster16.pdf)
-
-Bryony Foley et al., Towards Gamification of the Ramp-up Process for Industry 4.0 [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_17.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster17.pdf)
-
-Tsvetan Zhivkov et al., Modelling variable communication signal strength for experiments with multi-robot teams [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_18.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster18.pdf)
-
-Zeke Hobbs et al., Towards bio-inspired fruit detection for agriculture [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_19.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster19.pdf)
+Matias Mattamala et al., Adaptive Manipulator Control using Active Inference with Precision Learning [short paper] [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_34.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster34.pdf)
 
 
-Chipp Jansen et al., Co-creative drawing with a robot [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_20.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster20.pdf)
+Melanie Zimmer et al., Towards Human-Chatbot Interaction: A Virtual Assistant for the Ramp-up Process [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_35.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster35.pdf)
 
-Ashith Babu et al., Trajectory Tracking and Control of Multiple Robot Arms on a Free-Floating Spacecraft for Debris Removal [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_21.pdf)
+Mateusz Malinowski et al., Power-aware Fusion of Visual and Wheel Odometry for Mobile Platforms [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_36.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster36.pdf)
 
-Prabhakar Ray et al., Robotic Untangling of Herbs and Salads with Parallel Grippers [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_22.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster22.pdf)
+Paolo Grasso et al., Debiasing of position estimations of UWB-based TDoA indoor positioning system [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_39.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster39.pdf)
 
-Willow Mandil et al., Automated Topological Mapping for Agricultural Robots [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_23.pdf)
+George Onoufriou et al., The Augmented Agronomist Pipeline and Time Series Forecasting [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_43.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster43.pdf)
 
-Blayze Millward et al., Towards Insect Inspired Visual Sensors for Robots [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_24.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster24.pdf)
+Genki Miyauchi et al., A Study Assessing the Impact of Task Duration on Performance Metrics for Multi-Robot Teams [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_44.pdf)
 
-Patrick Tarek Saleh et al., Vision Navigation System to Manoeuvre Unmanned Aerial Vehicle (UAV) [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_25.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster25.pdf)
+Anh Nguyen et al., BeetleBot: A Multi-Purpose AI-Driven Mobile Robot for Realistic Environments [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_46.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster46.pdf)
 
-Achim Buerkle et al., An incremental learning approach for physical Human-Robot Collaboration [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_26.pdf)
+Justin Le Louedec et al., Determining shape of strawberry crops with spherical harmonics [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_47.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster47.pdf)
 
-Alexander Gabriel et al., Towards Intention Recognition for Human-Interacting Agricultural Robots [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_27.pdf)
+Bryony Foley et al., Towards Gamification of the Ramp-up Process for Industry 4.0 [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_48.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster48.pdf)
 
-Hasan Husain et al., Experimental Analysis of Soft Vacuum Cups for Automated Mushroom Picking [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_29.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster29.pdf)
+Tsvetan Zhivkov et al., Modelling variable communication signal strength for experiments with multi-robot teams [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_49.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster49.pdf)
 
-Joshua Emerson et al., Optimising Soft Fin Ray Robotic Fingers using Finite Element Analysis to Reduce Object Slippage [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_01.pdf)
+Zeke Hobbs et al., Towards bio-inspired fruit detection for agriculture [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_50.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster50.pdf)
 
-Dingdian Zhang et al., Mapping the impact of faults in a multi-robot team [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_02.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster02.pdf)
 
-William Smith et al., Image Pre-processing, Triplet Learning and Route Navigation [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_03.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster03.pdf)
+Chipp Jansen et al., Co-creative drawing with a robot [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_51.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster51.pdf)
 
-Illimar Issak et al., The Goods and Bads in Dyadic Co-Manipulation: Identifying Conflict-Driven Interaction Behaviours in Human-Human Collaboration [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_04.pdf)
+Ashith Babu et al., Trajectory Tracking and Control of Multiple Robot Arms on a Free-Floating Spacecraft for Debris Removal [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_52.pdf)
 
-Oliver Roesler et al., Enhancing Unsupervised Natural Language Grounding through Explicit Teaching [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_05.pdf)
+Prabhakar Ray et al., Robotic Untangling of Herbs and Salads with Parallel Grippers [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_53.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster53.pdf)
 
-Pratik Somaiya et al., Unsupervised Anomaly Detection for Safe Robot Operations [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_06.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster06.pdf)
+Willow Mandil et al., Automated Topological Mapping for Agricultural Robots [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_54.pdf)
 
-Jiaji Yang et al., Intelligent Service Robots to enter the Hospitality Industry: Job Termination or Gospel to Waiters [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_07.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster07.pdf)
+Blayze Millward et al., Towards Insect Inspired Visual Sensors for Robots [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_55.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster55.pdf)
+
+Patrick Tarek Saleh et al., Vision Navigation System to Manoeuvre Unmanned Aerial Vehicle (UAV) [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_56.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster56.pdf)
+
+Achim Buerkle et al., An incremental learning approach for physical Human-Robot Collaboration [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_57.pdf)
+
+Alexander Gabriel et al., Towards Intention Recognition for Human-Interacting Agricultural Robots [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_58.pdf)
+
+Hasan Husain et al., Experimental Analysis of Soft Vacuum Cups for Automated Mushroom Picking [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_60.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster60.pdf)
+
+Joshua Emerson et al., Optimising Soft Fin Ray Robotic Fingers using Finite Element Analysis to Reduce Object Slippage [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_61.pdf)
+
+Dingdian Zhang et al., Mapping the impact of faults in a multi-robot team [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_62.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster62.pdf)
+
+William Smith et al., Image Pre-processing, Triplet Learning and Route Navigation [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_63.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster63.pdf)
+
+Illimar Issak et al., The Goods and Bads in Dyadic Co-Manipulation: Identifying Conflict-Driven Interaction Behaviours in Human-Human Collaboration [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_64.pdf)
+
+Oliver Roesler et al., Enhancing Unsupervised Natural Language Grounding through Explicit Teaching [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_65.pdf)
+
+Pratik Somaiya et al., Unsupervised Anomaly Detection for Safe Robot Operations [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_66.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster66.pdf)
+
+Jiaji Yang et al., Intelligent Service Robots to enter the Hospitality Industry: Job Termination or Gospel to Waiters [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_67.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster67.pdf)
