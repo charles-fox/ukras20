@@ -44,7 +44,7 @@ Viktor Schmuck et al., RICA: Robocentric Indoor Crowd Analysis Dataset [Paper](h
 
 Benjamin Hawker et al., Robots Producing Their Own Hierarchies with DOSA; The Dependency-Oriented Structure Architect [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_15.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_a/poster15.pdf)
 
-Ronnie Smith et al., Enabling Deep Personalisation for a Heterogeneous Ambient Assisted Living Landscape [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_16.pdf)
+Ronnie Smith et al.,  Human-in-the-Loop Adaptation and Reuse of Robot Assistance Policies for Ambient Assisted Living, [Paper] (https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_16.pdf)
 
 Mahmud Khan et al., Development of Tools and Methods for Autonomous Fixed-wing UAV Research [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_17.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_a/poster17.pdf)
 
