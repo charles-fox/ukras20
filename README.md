@@ -1,5 +1,5 @@
-How to talk to people at UKRAS
-==============================
+How to talk to people at UKRAS20
+================================
 
 As for physical conferneces, you are strongly encouraged to have one-to-one and group conversations with other attendees as much as possible. You are encouraged to do this by running your own ad hoc one-to-one or small group meetings whenever and however you like.  
 
