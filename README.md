@@ -1,7 +1,7 @@
 How to talk to people at UKRAS20
 ================================
 
-As for physical conferences, you are strongly encouraged to have one-to-one and group conversations with other attendees as much as possible. You are encouraged to do this by running your own ad hoc one-to-one or small group meetings whenever and however you like.  
+As for physical conferences, you are strongly encouraged to have one-to-one and group conversations with other attendees during the poster sessions and coffee breaks. You are encouraged to do this by running your own ad hoc one-to-one or small group meetings whenever and however you like.  
 
 In particular, poster presenters are strongly encouraged to set up private video rooms to show their poster and host any interested visitors, and to use their 3 minute spotlight talk in the public room to advertise how to do this.
 
