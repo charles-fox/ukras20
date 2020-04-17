@@ -1,4 +1,5 @@
-How to talk to people at UKRAS:
+How to talk to people at UKRAS
+==============================
 
 As for physical conferneces, you are strongly encouraged to have one-to-one and group conversations with other attendees as much as possible. You are encouraged to do this by running your own ad hoc one-to-one or small group meetings whenever and however you like.  
 
@@ -14,7 +15,8 @@ Or if you want to chat with anyone as you would in the corridor of a physical co
 (Jitsi uses the WebRTC from your browser, Google Chrome is known to have a good implementation of WebRTC, Firefox also has one.)
     -charles
 
-
+Poster list
+===========
 
 Raymond Kirk et al., Feasibility Study of In-Field Phenotypic Trait Extraction for Robotic Soft-Fruit Operations [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_02.pdf)
 
