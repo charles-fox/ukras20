@@ -5,7 +5,7 @@ As for physical conferences, you are strongly encouraged to have one-to-one and 
 
 In particular, poster presenters are strongly encouraged to set up private video rooms to show their poster and host any interested visitors, and to use their 3 minute spotlight talk in the public room to advertise how to do this.
 
-UKRAS20 does not recommend or host any particular way to do this, but in a personal capacity I recommend using (fully open source) Jitsi on 8x8 servers as follows:   Go to this page and create a room:
+UKRAS20 does not recommend or host any particular way to do this, but one methid is to use open source Jitsi on 8x8 servers as follows:   Go to this page and create a room:
 https://www.8x8.com/products/video-conferencing
 (no logins needed, only takes 3 seconds).
 This will create a URL for your private room.   You can give this URL to anyone you would like to talk to, and ask them to enter your room.   In particular, a good way to do this is to paste your room’s URL along with your name, poster title, and paper number into the text chat of the main zoom session at the start of your poster session.
