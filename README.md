@@ -14,7 +14,7 @@ Or if you want to chat with anyone as you would in the corridor of a physical co
 
 (Jitsi uses the WebRTC from your browser, Google Chrome is known to have a good implementation of WebRTC, Firefox also has one.)
 
-Poster list
+Papers list
 ===========
 
 Raymond Kirk et al., Feasibility Study of In-Field Phenotypic Trait Extraction for Robotic Soft-Fruit Operations [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_02.pdf)
