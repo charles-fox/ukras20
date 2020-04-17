@@ -88,7 +88,7 @@ Olivia Bridgewater-Smith et al., An Automatic Design Tool for Soft Robotics [Pap
 
 
 
-Matias Mattamala et al., Adaptive Manipulator Control using Active Inference with Precision Learning [short paper] [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_34.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster34.pdf)
+Mohamed Baioumy et al., Adaptive Manipulator Control using Active Inference with Precision Learning [short paper] [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_34.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster34.pdf)
 
 
 Melanie Zimmer et al., Towards Human-Chatbot Interaction: A Virtual Assistant for the Ramp-up Process [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_35.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_b/poster35.pdf)
