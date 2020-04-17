@@ -13,7 +13,6 @@ This will create a URL for your private room.   You can give this URL to anyone 
 Or if you want to chat with anyone as you would in the corridor of a physical confernece, you can text chat or just email them at any time during the conference with your URL.
 
 (Jitsi uses the WebRTC from your browser, Google Chrome is known to have a good implementation of WebRTC, Firefox also has one.)
-    -charles
 
 Poster list
 ===========
