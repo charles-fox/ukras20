@@ -10,7 +10,7 @@ https://www.8x8.com/products/video-conferencing
 (no logins needed, only takes 3 seconds).
 This will create a URL for your private room.   You can give this URL to anyone you would like to talk to, and ask them to enter your room.   In particular, a good way to do this is to paste your room’s URL along with your name, poster title, and paper number into the text chat of the main zoom session at the start of your poster session.
 
-(Jitsi uses the WebRTC from your browser, Google Chrome is known to have a good implementation of WebRTC, Firefox also has one.)
+(Jitsi uses the WebRTC from your browser, Google Chrome is known to have a good implementation of WebRTC, some versions of Firefox may also have one.)
 
 Papers list
 ===========
