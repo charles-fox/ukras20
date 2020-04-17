@@ -1,3 +1,21 @@
+How to talk to people at UKRAS:
+
+As for physical conferneces, you are strongly encouraged to have one-to-one and group conversations with other attendees as much as possible. You are encouraged to do this by running your own ad hoc one-to-one or small group meetings whenever and however you like.  
+
+In particular, poster presenters are strongly encouraged to set up private video rooms to show their poster and host any interested visitors, and to use their 3 minute spotlight talk in the public room to advertise how to do this.
+
+UKRAS20 does not recommend or host any particular way to do this, but in a personal capacity I recommend using (fully open source) Jitsi on 8x8 servers as follows:   Go to this page and create a room:
+https://www.8x8.com/products/video-conferencing
+(no logins needed, only takes 3 seconds).
+This will create a URL for your private room.   You can give this URL to anyone you would like to talk to, and ask them to enter your room.   In particular, a good way to do this is to paste your room’s URL along with your name, poster title, and paper number into the text chat of the main zoom session at the start of your poster session.
+
+Or if you want to chat with anyone as you would in the corridor of a physical confernece, you can text chat or just email them at any time during the conference with your URL.
+
+(Jitsi uses the WebRTC from your browser, Google Chrome is known to have a good implementation of WebRTC, Firefox also has one.)
+    -charles
+
+
+
 Raymond Kirk et al., Feasibility Study of In-Field Phenotypic Trait Extraction for Robotic Soft-Fruit Operations [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_02.pdf)
 
 Lupo Manes et al., A Cable-based Manipulator for Chemistry Labs [Paper](https://github.com/charles-fox/ukras20/blob/master/UKRAS20_paper_03.pdf) [Poster](https://github.com/charles-fox/ukras20/blob/master/posters_a/poster03.pdf)
